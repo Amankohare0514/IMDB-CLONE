@@ -1,5 +1,5 @@
 .posterImage{
-    height: 800px;
+    height: 600px;
 }
 
 .posterImage > img {
@@ -18,7 +18,7 @@
     width: 100%;
     justify-content: flex-end;
     align-items: flex-start;
-    background-image: linear-gradient(rgba(36, 34, 34, 0), rgb(69, 60, 60));
+    background-image: linear-gradient(rgba(36, 34, 34, 0), rgb(12, 12, 12));
     opacity: 1;
     transition: opacity .3s;
 }   
